@@ -9,9 +9,3 @@ The technical oversight committee is the technical governing body of the TKEStac
 * Liangyu Zhou <liangyuzhou@tencent.com> [member]
 * Quanyi Ma <quanyima@tencent.com> [member]
 * Kai Chen <kaichen@alauda.io> [member]
-
-### Email List
-
-Mail to: tkestack@googlegroups.com
-
-To join: https://groups.google.com/d/forum/tkestack
